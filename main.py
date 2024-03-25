@@ -1,2 +1,2 @@
 # 3주차 실습
-print("First Pull Request")
+print("Renew the unmerged Pull Request")
